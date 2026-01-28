@@ -209,15 +209,9 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 
 This project is developed as an academic MVP for educational purposes.
 
-## 👥 Contributors
-
-[Your Name/Team Name]
-- GitHub: [Your GitHub]
-- Project: Image-to-Word Converter MVP
-
 ## 📧 Contact
 
-For issues, questions, or feedback, please open an issue on GitHub or contact via WhatsApp (as per project requirements).
+For issues, questions, or feedback, please open an issue on GitHub.
 
 ---
 
