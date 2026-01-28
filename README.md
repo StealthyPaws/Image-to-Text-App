@@ -36,7 +36,7 @@ All dependencies are listed in `requirements.txt`:
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/StealthyPaws/Image-to-Text-App.git
 cd image-to-word-converter
 ```
 
